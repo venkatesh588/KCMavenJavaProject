@@ -1,6 +1,7 @@
 #!groovy
 node {
     currentBuild.result = "SUCCESS"
+	
     try {
 
        stage('Checkout'){
