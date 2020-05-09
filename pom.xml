@@ -5,7 +5,7 @@
   <groupId>com.devops</groupId>
   <artifactId>maven-java-project1</artifactId>
   <packaging>jar</packaging>
- <version>1.9</version>
+ <version>1.9-SNOPSHOT</version>
   <name>Maven Web Project</name>
   <description>Maven java Project for Java</description>
 
