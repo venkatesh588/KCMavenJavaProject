@@ -8,6 +8,7 @@
  <version>1.8</version>
   <name>Maven Web Project</name>
   <description>Maven java Project for Java</description>
+	kasa reddy
 
   <properties>
 	    <spring.version>4.1.4.RELEASE</spring.version>
@@ -121,6 +122,8 @@
               </plugins>
             </build>
         </profile>
+	   
+	  
   </profiles>
 
  
